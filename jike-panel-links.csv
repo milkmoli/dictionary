@@ -1,0 +1,69 @@
+﻿section,category,name,url,desc,color
+main,搜索引擎,Google,https://www.google.com,全球最大搜索引擎,#4285F4
+main,搜索引擎,必应,https://www.bing.com/,微软旗下搜索引擎,#008373
+main,搜索引擎,百度,https://www.baidu.com/,中文搜索引擎,#2932E1
+main,搜索引擎,yandex,https://yandex.ru/images/,俄罗斯搜索引擎,#FC3F1D
+main,搜索引擎,telegram,https://web.telegram.org/k/,即时通讯软件,#2AABEE
+main,搜索引擎,milkmoli,https://milkmoli.github.io/,茉莉的网站,#FF0000
+main,购物,淘宝,https://www.taobao.com/,中国最大购物网站,#FF5000
+main,购物,拼多多,https://mobile.yangkeduo.com/index.html?refer_page_name=personal&refer_page_id=10001_1791599324704_x4h0clz5eb&refer_page_sn=10001,中国最大购物网站,#FF5000
+main,游戏,原神,https://ys.mihoyo.com/cloud/#/,云原神,#FF6B6B
+main,游戏,星穹铁道,https://sr.mihoyo.com/cloud/#/,云星穹铁道,#FF6B6B
+main,工具,Grok,https://grok.com/,马斯克旗下AI,#000000
+main,工具,DeepSeek,https://chat.deepseek.com/,深度求索AI,#4D6BFE
+main,工具,DeepSeek开放平台,https://platform.deepseek.com/usage,控制面板,#4D6BFE
+main,工具,豆包,https://www.doubao.com/chat/,字节跳动AI,#165DFF
+main,工具,ChatGPT,https://chatgpt.com/,OpenAI对话AI,#10A37F
+main,工具,在线小工具,https://tools.beer/zh/media/mp4-to-mp3/,在线格式转换工具,#FF6B6B
+main,影视,videohub,https://vidhub.cc/,视频资源网站,#FF6B35
+main,影视,YouTube,https://www.youtube.com/,全球视频平台,#FF0000
+main,影视,Bilibili,https://www.bilibili.com/,中国ACG视频社区,#00A1D6
+main,百科,维基百科,https://www.wikipedia.org/,自由百科全书,#000000
+main,百科,知乎,https://www.zhihu.com/,中文问答社区,#0084FF
+main,百科,GitHub,https://github.com/,开发者协作平台,#181717
+main,音乐,网易云音乐,https://music.163.com/,中国音乐平台,#C20C0C
+main,音乐,asmr,https://asmr-300.com/works,ASMR音声作品,#9B59B6
+main,图片/漫画,Sankaku,https://chan.sankakucomplex.com/,二次元图片社区,#FF6B6B
+main,图片/漫画,Danbooru,https://danbooru.donmai.us/,二次元图片标签库,#2E86AB
+main,图片/漫画,Gelbooru,https://gelbooru.com/index.php?page=post&s=list&tags=all,二次元图片图床,#A23B72
+main,图片/漫画,yande,https://yande.re/post,高质量二次元图片,#F18F01
+main,图片/漫画,Pixiv,https://www.pixiv.net/,日本插画社区,#0096FA
+main,图片/漫画,e-hentai,https://e-hentai.org/tag/other:uncensored,同人图库,#5C6BC0
+main,图片/漫画,exhentai,https://exhentai.org/,同人图库（需账号）,#3949AB
+main,图片/漫画,hitomi,https://hitomi.la/tag/uncensored-all.html,同人图库镜像,#7E57C2
+main,设定,feishi,https://gelbooru.com/index.php?page=post&s=list&tags=feishi&pid=0,feishi - Gelbooru,#E91E63
+main,设定,ebora,https://gelbooru.com/index.php?page=post&s=list&tags=ebora,ebora - Gelbooru,#9C27B0
+main,设定,matuo3232,https://danbooru.donmai.us/posts?tags=matuo3232&z=1,matuo3232 - Danbooru,#673AB7
+main,设定,background,https://danbooru.donmai.us/posts/10566862,背景图参考,#3F51B5
+main,设定,8kcosplay,https://www.8kcosplay.com,高清Cosplay图站,#2196F3
+main,翻译,谷歌翻译,https://translate.google.com/?hl=zh-CN&tab=TT&sl=auto&tl=ja&op=translate,谷歌在线翻译,#4285F4
+main,翻译,百度翻译,https://fanyi.baidu.com/mtpe-individual/transText#/,百度在线翻译,#2932E1
+main,邮箱,谷歌邮箱,https://mail.google.com/mail/u/0/#inbox,Gmail 邮箱,#EA4335
+main,邮箱,网易邮箱,https://mail.163.com/js6/main.jsp?sid=YLVuCuoNbXmizrTUqjapygNionxSAtkN&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D,网易163邮箱,#D32F2F
+main,邮箱,outlook邮箱,https://outlook.live.com/mail/,微软 Outlook 邮箱,#0078D4
+main,邮箱,proton邮箱,https://mail.proton.me/u/0/inbox,Proton 加密邮箱,#6D4AFF
+main,邮箱,24临时邮箱,http://24mail.chacuo.net/,临时邮箱服务,#FF9800
+hidden,隐藏链接,司机社,https://xsijishe.net/,司机社论坛,#FF5722
+hidden,隐藏链接,南+,https://south-plus.net/,南+ 茶馆论坛,#E91E63
+hidden,隐藏链接,1024,https://www.1024clx.com/clx42p1.html,1024 论坛,#9C27B0
+hidden,隐藏链接,2048,https://2048.wang/,2048核基地,#9C27B0
+hidden,隐藏链接,原创,https://sis001.com/forum/forum-187-1.html,原创区,#673AB7
+hidden,隐藏链接,偷拍盗摄,https://sis001.com/forum/forum-544-1.html,偷拍盗摄区,#3F51B5
+hidden,隐藏链接,極樂禁地,https://d1ibyof3mbdf0n.cloudfront.net/,極樂禁地,#2196F3
+hidden,隐藏链接,机场,https://www.xn--mes995ajya725k.com/#/dashboard,机场面板,#00BCD4
+hidden,隐藏链接,X,https://x.com/,X（原推特）,#000000
+hidden,隐藏链接,Pornhub,https://cn.pornhub.com/,Pornhub 视频,#FF9000
+hidden,隐藏链接,秒播,https://mmss.pro/,国产在线,#FF5722
+hidden,隐藏链接,RRjav,https://rrjav.com/,RRjav 资源站,#E91E63
+hidden,隐藏链接,GCBT,https://gcbt.net/,种子搜索网站,#9C27B0
+hidden,隐藏链接,TK Tube,https://tktube.com/zh/,TK Tube 视频,#673AB7
+hidden,隐藏链接,XNXX,https://www.xnxx.com/,XNXX 视频,#3F51B5
+hidden,隐藏链接,xmateur,https://xmateur.com/video/12588/4b3fae3d2ea484028d065f1355f3d18c/,业余视频,#2196F3
+hidden,隐藏链接,JAVDock,https://www.javdock.com/zh/,FC2PPV 观看,#00BCD4
+hidden,隐藏链接,redgifs,https://www.redgifs.com/watch/darkslategreypoisedeasternnewt,色情动图,#FF4081
+hidden,隐藏链接,misskon,https://misskon.com/110250-coser-machi-ma-ji-hua-huo-107-photos/,美图网站（可下载）,#FF6B6B
+hidden,隐藏链接,sukebei,https://sukebei.nyaa.si/,种子搜索网站,#4CAF50
+hidden,隐藏链接,sexbjcam,https://sexbjcam.com/,韩国直播录像,#FF9800
+hidden,隐藏链接,kissjav,https://kissjav.li/video/379407/27-jav-jvip/,素人オメコ大図鑑,#F44336
+hidden,隐藏链接,要福利,https://1fuli.one/,要福利，互联网第一流福利资源聚集地-,#428bd1
+hidden,隐藏链接,AvGood,https://avgood.com/c/,AV搜索引擎,#428bd1
